@@ -1,7 +1,7 @@
 var p = document.querySelector('p');
-console.log(p);
-
+var img = document.querySelector('img');
 
 p.addEventListener('click', function () {
-  p.classList.toggle('chosen');
+  //p.classList.toggle('chosen');
+  img.classList.toggle('hidden');
 });
