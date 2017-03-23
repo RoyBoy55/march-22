@@ -1,3 +1,8 @@
 h1 {
   font-family: sans-serif;
 }
+
+.chosen {
+  background-color: black;
+  color: white;
+}
